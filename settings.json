@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "barreleye.aternos.host",
+    "ip": "barreleye.aternos.host:11559",
     "port": 11559,
     "version": "",
     "try-creative": false
